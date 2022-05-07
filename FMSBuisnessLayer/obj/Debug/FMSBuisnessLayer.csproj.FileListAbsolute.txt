@@ -1,0 +1,13 @@
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSBuisnessLayer.dll
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSBuisnessLayer.pdb
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSDataLayer.dll
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSEntityLayer.dll
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSExceptionLayer.dll
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSDataLayer.pdb
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSEntityLayer.pdb
+F:\Team 1\Sprint 1\FMSBuisnessLayer\bin\Debug\FMSExceptionLayer.pdb
+F:\Team 1\Sprint 1\FMSBuisnessLayer\obj\Debug\FMSBuisnessLayer.csproj.AssemblyReference.cache
+F:\Team 1\Sprint 1\FMSBuisnessLayer\obj\Debug\FMSBuisnessLayer.csproj.CoreCompileInputs.cache
+F:\Team 1\Sprint 1\FMSBuisnessLayer\obj\Debug\FMSBuisnessLayer.csproj.CopyComplete
+F:\Team 1\Sprint 1\FMSBuisnessLayer\obj\Debug\FMSBuisnessLayer.dll
+F:\Team 1\Sprint 1\FMSBuisnessLayer\obj\Debug\FMSBuisnessLayer.pdb

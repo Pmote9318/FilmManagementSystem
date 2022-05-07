@@ -1,0 +1,17 @@
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FilmManagementSystem.exe.config
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FilmManagementSystem.exe
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FilmManagementSystem.pdb
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSBuisnessLayer.dll
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSEntityLayer.dll
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSExceptionLayer.dll
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSDataLayer.dll
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSBuisnessLayer.pdb
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSEntityLayer.pdb
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSExceptionLayer.pdb
+F:\Team 1\Sprint 1\FilmManagementSystem\bin\Debug\FMSDataLayer.pdb
+F:\Team 1\Sprint 1\FilmManagementSystem\obj\Debug\FMSPresentationLayer.csproj.AssemblyReference.cache
+F:\Team 1\Sprint 1\FilmManagementSystem\obj\Debug\FMSPresentationLayer.csproj.SuggestedBindingRedirects.cache
+F:\Team 1\Sprint 1\FilmManagementSystem\obj\Debug\FMSPresentationLayer.csproj.CoreCompileInputs.cache
+F:\Team 1\Sprint 1\FilmManagementSystem\obj\Debug\FMSPresentationLayer.csproj.CopyComplete
+F:\Team 1\Sprint 1\FilmManagementSystem\obj\Debug\FilmManagementSystem.exe
+F:\Team 1\Sprint 1\FilmManagementSystem\obj\Debug\FilmManagementSystem.pdb
