@@ -11,23 +11,21 @@ namespace FilmManagementSystem
 {
     internal class Program
     {
-
-        enum Menu
+        enum LogInCredentialMenu
         {
-
-            LogInCredentials,
+            LogIn,
+            SignUp,
+            GoToMainMenu
+        }
+        enum Menu
+        { 
+            
             Film,
             Category,
             Actor,
             FilmLangauage,
             Exit
 
-        }
-        enum LogInCredentialMenu
-        {
-            LogIn,
-            SignUp,
-            GoToMainMenu
         }
         enum FilmMenu
         {
